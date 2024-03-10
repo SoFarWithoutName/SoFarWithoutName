@@ -8,7 +8,7 @@
 Я начинающий аналитик данных. Мой тернистый путь знакомства с аналитикой начался с онлайн-школы Data Science Karpov.Courses, где я закончил курс "Аналитик данных" и "Симулятор SQL". Укрепил своё желание работать аналитиком - участием в Антихакатоне ВкусВилл. 
 «То, что очевидно для вас, не очевидно для других» - стремлюсь превращать неочевидные закономерности в очевидные
 <p aling="center">
-  <![genius-smart](https://github.com/SoFarWithoutName/SoFarWithoutName/assets/159808135/878f1fb2-5e31-42ac-b74c-e3e451f44f41)>
+  <gif src ="!https://github.com/SoFarWithoutName/SoFarWithoutName/assets/159808135/878f1fb2-5e31-42ac-b74c-e3e451f44f41">
 </p>  
 
 
