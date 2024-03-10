@@ -41,15 +41,20 @@
   <img src="https://redash.io/assets/images/elements/redash-logo.svg" title="Redash" alt="Redash" width="40" height="40"/>&nbsp;
   
 </div>
- 
-### Badges
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/аа"><img src="https://github-readme-stats.vercel.app/api?username=аа&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&show_icons=true" alt="аа's GitHub stats" /></a>
+### ⚙️ GitHub статистика:
 
-<a href="http://www.github.com/аа"><img src="https://github-readme-streak-stats.herokuapp.com/?user=аа&stroke=ffffff&background=134e4a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=SoFarWithoutName&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoFarWithoutName&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/аа"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=аа&bg_color=134e4a&color=ffffff&line=0891b2&point=ffffff&area_color=134e4a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/аа" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=аа&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SoFarWithoutName)
