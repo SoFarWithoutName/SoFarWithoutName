@@ -12,6 +12,7 @@
 стремлюсь превращать неочевидные закономерности в очевидные!
 
 
+
 * 🥇 Закончил курс по анализу данных Data Science Karpov.Courses!
 * 🥈 Прошел симулятор SQL Data Science Karpov.Courses!
 * ✉️  You can contact me at [nnvorontsov95@gmail.com](mailto:nnvorontsov95@gmail.com )
