@@ -46,8 +46,9 @@
 ---
 
 ### ⚙️ GitHub статистика:
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={SoFarWithoutName}&theme={github_dark}
 
+
+      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={SoFarWithoutName}&theme={github_dark}" alt="webDev's Github stats" />
 <table>
   <tr>
     <td>
