@@ -47,8 +47,7 @@
 
 ### ⚙️ GitHub статистика:
 
-
-      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={SoFarWithoutName}&theme={github_dark}" alt="webDev's Github stats" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoFarWithoutName&show_icons=true&theme=radical)
 <table>
   <tr>
     <td>
