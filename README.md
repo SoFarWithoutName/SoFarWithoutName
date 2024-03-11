@@ -47,7 +47,7 @@
 
 ### ⚙️ GitHub статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoFarWithoutName&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoFarWithoutName&show_icons=true&theme=gradient)
 <table>
   <tr>
     <td>
