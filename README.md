@@ -53,7 +53,7 @@
 ### ⚙️ GitHub статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoFarWithoutName&show_icons=true&theme=gradient)
-<align="right" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoFarWithoutName)](https://github.com/anuraghazra/github-readme-stats)>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoFarWithoutName)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SoFarWithoutName)
 
