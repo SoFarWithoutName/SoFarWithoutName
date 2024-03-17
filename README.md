@@ -17,7 +17,9 @@
 
 * 🥇 Закончил курс по анализу данных Data Science Karpov.Courses!
   
-* 🥈 Прошел "Cимулятор SQL" Data Science Karpov.Courses!
+* 🥈 Прошёл "Cимулятор SQL" Data Science Karpov.Courses!
+
+* 🥉 Прошёл курс "Основы статистики" на Stepik! 
   
 * ✉️ Как связаться со мной:  [![Telegram Badge](https://img.shields.io/badge/-NikolyaVorontsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoFarWithoutName) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nnvorontsov95@gmail.com)
 
@@ -48,6 +50,21 @@
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" alt="Tableau" width="80" height="50"/>&nbsp;
 </div>
+</details>
+
+ <details>
+  <summary><b> ✅&nbsp;&nbsp;Мои проекты&nbsp;</b></summary>
+  <br/> 
+<div>
+
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|[A/B тест!](https://github.com/SoFarWithoutName/AB_test)|Разведочный анализ данных EDA, расчёт метрик, определение статистической значимости различий (t-test,Хи-квадрат,bootstrap) |**Pandas** **Numpy** **Scipy** **Seaborn** **Matplotlib** **Pingouin**|
+|[Когортный и RFM анализы!](https://github.com/SoFarWithoutName/RFM_analysis)|Анализ совершённых покупок; Когортный анализ пользователей; RFM-сегментация пользователей.|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
+|[SQL](https://github.com/SoFarWithoutName/SQL)|Анализ данных с помощью SQL-запросов в ClickHouse.|**SQL** **ClickHouse** **Pandahouse**|
+|[Дашборд в Tableau](https://github.com/SoFarWithoutName/Tableau)|Собираем дашборд для анализа вакансий отрасли "Аналитик данных" |**Tableau**|
+
+</div>  
 </details>
 
 ---
