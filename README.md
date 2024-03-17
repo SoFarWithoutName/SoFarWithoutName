@@ -52,6 +52,8 @@
 </div>
 </details>
 
+---
+
  <details>
   <summary><b> ✅&nbsp;&nbsp;Мои проекты&nbsp;</b></summary>
   <br/> 
