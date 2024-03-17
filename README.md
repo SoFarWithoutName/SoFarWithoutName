@@ -18,10 +18,16 @@
 
 
 * 🥇 Закончил курс по анализу данных Data Science Karpov.Courses!
+
+  [**Сертификат**](https://lab.karpov.courses/certificate/cba5e2ac-1cc5-429c-97ff-6589c7306090/)👈
   
 * 🥈 Прошёл "Cимулятор SQL" Data Science Karpov.Courses!
 
+  [**Сертификат**](https://lab.karpov.courses/certificate/35751876-a7d3-4a3d-b513-0308462e16a8/)👈
+
 * 🥉 Прошёл курс "Основы статистики" на Stepik! 
+
+  [**Сертификат**](https://stepik.org/cert/1596560)👈
   
 * ✉️ Как связаться со мной:  [![Telegram Badge](https://img.shields.io/badge/-NikolyaVorontsov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoFarWithoutName) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nnvorontsov95@gmail.com)
 
