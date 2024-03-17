@@ -4,11 +4,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align='center'>
+  <img alt="GIF" src="https://github.com/SoFarWithoutName/SoFarWithoutName/assets/159808135/4987bf1d-9cbd-4207-908f-1f54ee180fad?raw=true" width ="300" height="150"/>
+</div>
 
 ### :man_technologist: Обо мне:
 
 Я начинающий аналитик данных. Мой тернистый путь знакомства с аналитикой начался с онлайн-школы Data Science Karpov.Courses, где я закончил курс "Аналитик данных" и "Симулятор SQL". Укрепил своё желание изучать аналитику - участием в Антихакатоне ВкусВилл. 
-  <img align="right" alt="GIF" src="https://github.com/SoFarWithoutName/SoFarWithoutName/assets/159808135/4987bf1d-9cbd-4207-908f-1f54ee180fad?raw=true" width ="300" height="150"/>
 
 «То, что очевидно для вас, не очевидно для других» - 
 стремлюсь превращать неочевидные закономерности в очевидные!
